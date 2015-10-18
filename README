@@ -1,0 +1,7 @@
+# ubuntu-config
+
+It is used to save the config files, such as bash, vim, sourlist...
+
+  - .bashrc
+  - .vimrc
+  - sourlist
